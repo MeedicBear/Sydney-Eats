@@ -1,0 +1,38 @@
+76: 🍸 Drinks & Bar
+50: 👕 Casual & Chill
+31: 🍾 Fancy
+30: 🤫 Hidden Gem
+28: 🍷 Date Night
+22: 🎉 Lively & Fun
+22: 🍕 Italian & Pizza
+18: 🍣 Asian Eats
+18: 🌍 Global Eats
+17: ☕ Cafe & Bakery
+17: 🌅 Great Views
+17: 🎡 Activity
+14: ☀️ Outdoor
+12: 🚆 Train Access
+8: 🎵 Music & Entertainment
+8: 🍔 Comfort & Quick
+8: 🏖️ Beach
+7: 🍝 Good Food
+6: 🌮 Mexican & Latin
+5: ⛴️ Ferry Access
+5: 🚌 Bus Access
+5: 💸 Cheap Eats
+5: 🥢 Asian Eats
+4: 🍻 Pub
+3: 🦞 Seafood
+3: 🚗 Far/Drive Recommended
+2: 🍻 Brewery
+2: 🍔 Burgers
+1: 🥩 Steakhouse
+1: 🌺 Tiki
+1: 🦪 Seafood
+1: 🎤 Karaoke
+1: 🐕 Dog Friendly
+1: 🎵 Live Music
+1: 🤘 Rock
+1: 🌿 Botanical
+1: 🍗 Korean Fried Chicken
+1: 🍖 Korean BBQ
