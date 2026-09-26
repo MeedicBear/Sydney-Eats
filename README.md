@@ -1,5 +1,7 @@
 # Sydney Eats & Itinerary Generator 🍸
 
+*Live Demo:** [https://meedicbear.github.io/Sydney-Eats/web/](https://meedicbear.github.io/Sydney-Eats/web/)
+
 A beautifully designed, client-side web application for discovering Sydney's best restaurants, bars, and activities. Features an interactive map, dynamic filtering by "vibes" and price, and an intelligent **Itinerary & Bar Crawl Generator** that algorithmically routes walkable dates and epic multi-stop crawls based on Haversine distance.
 
 ## 🚀 Features
